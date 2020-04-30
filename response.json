@@ -1,0 +1,330 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.0900593,
+               "lng" : 58.3264193
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.09146027989273,
+                  "lng" : 58.32780642989271
+               },
+               "southwest" : {
+                  "lat" : 29.08876062010728,
+                  "lng" : 58.32510677010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "72301b6f29c14b813996af6837e22ed916f89b04",
+         "name" : "Parsian Bam Hotel",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109584519117095697693\"\u003eAbbas Hajimohammadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAZVBTge3UVvoPO0LtwXCbnjkObOIPpHAq9aAZrPQk81xBElkXNFCFkgI5Jh3bZLjmwEYXKNEqu5gTvY3X3aKC75KIYC4mrLadl4iCci8HESU4DtTfTP8O32K2aSL13TW3EhA9lC33Iya0ShA7HezCveGVGhR7uH-8Pl_V4VsyeVyuaixWQ793uA",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJj2YuoYCs_D4RUFLKS8x0MuE",
+         "plus_code" : {
+            "compound_code" : "38RG+2H Bam, Kerman Province, Iran",
+            "global_code" : "7HXW38RG+2H"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJj2YuoYCs_D4RUFLKS8x0MuE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51,
+         "vicinity" : "Bam, 84"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.095207,
+               "lng" : 58.3566841
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.09659382989272,
+                  "lng" : 58.35786542989272
+               },
+               "southwest" : {
+                  "lat" : 29.09389417010728,
+                  "lng" : 58.35516577010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "15c5ae401b11e92d4e29e5b0961b3f517ab16ff9",
+         "name" : "Bam Tourist Hotel",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110696951891970643324\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZPnKUWcsnTBKA70AvQYNvptNED9rwSL-YLtTHE2WhHUDrEszHDIjbCvtM84GXHdsQFTMNWEVdlB4JYOkBFe35OjdXq2IkRzIukswqzRECtv0GQxqaHqqVjkZeypbYRB1EhB92voGuv4O1QrScLsS6me1GhTDHssTiQa7YkunR_qXdDcC09FyDA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJScE2ul6r_D4RXasbBFYwHxY",
+         "plus_code" : {
+            "compound_code" : "39W4+3M Bam, Kerman Province, Iran",
+            "global_code" : "7HXW39W4+3M"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJScE2ul6r_D4RXasbBFYwHxY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61,
+         "vicinity" : "Bam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.089576,
+               "lng" : 58.3250115
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.09094242989271,
+                  "lng" : 58.32635242989272
+               },
+               "southwest" : {
+                  "lat" : 29.08824277010727,
+                  "lng" : 58.32365277010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f8fc43ed67642a0cfbd1b9d04531dd06661c8ef2",
+         "name" : "Azadi parsian hotel",
+         "photos" : [
+            {
+               "height" : 312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109981089267747071390\"\u003eARAD A\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUK_GiFrY4XGNqDABw3pVkKYMDH2AYqebNpiupG368S_AKXIEhKQ9nf0as-WltUEiItR6YykuKzj7iDkaJQb2JVo2stJnJYNVoHvcnRJQMu9DNKZgrHSCHBOmErtM-tAQEhAxaN0BklN2H9jZv23GeFhHGhTcHTvB1gtqPoAj-WgQWDp9SPWS-w",
+               "width" : 566
+            }
+         ],
+         "place_id" : "ChIJ642cDn6s_D4RMrANhUh-qxI",
+         "plus_code" : {
+            "compound_code" : "38QG+R2 Bam, Kerman Province, Iran",
+            "global_code" : "7HXW38QG+R2"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJ642cDn6s_D4RMrANhUh-qxI",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Bam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.1061267,
+               "lng" : 58.34247769999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.10730357989272,
+                  "lng" : 58.34397767989272
+               },
+               "southwest" : {
+                  "lat" : 29.10460392010727,
+                  "lng" : 58.34127802010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6fcd8dc4c1cb8e742f089e57ce3be55adb0d44f6",
+         "name" : "بوم گردي نخل و نارنج",
+         "place_id" : "ChIJKQoWO36t_D4RWSrmoi2QKL8",
+         "plus_code" : {
+            "compound_code" : "484R+FX Bam, Kerman Province, Iran",
+            "global_code" : "7HXW484R+FX"
+         },
+         "rating" : 0,
+         "reference" : "ChIJKQoWO36t_D4RWSrmoi2QKL8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Bam, Azadegan Street"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.1103069,
+               "lng" : 58.35411920000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.11161517989272,
+                  "lng" : 58.35546567989272
+               },
+               "southwest" : {
+                  "lat" : 29.10891552010728,
+                  "lng" : 58.35276602010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3f5b8072f767ee4d6f6891e10d69ea34d6504152",
+         "name" : "Bam Pars Hotel",
+         "place_id" : "ChIJp7E50b6s_D4RLEzexSUtY6E",
+         "plus_code" : {
+            "compound_code" : "4963+4J Bam, Kerman Province, Iran",
+            "global_code" : "7HXW4963+4J"
+         },
+         "rating" : 1,
+         "reference" : "ChIJp7E50b6s_D4RLEzexSUtY6E",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Bam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.0902893,
+               "lng" : 58.36250069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.09167412989272,
+                  "lng" : 58.36399422989272
+               },
+               "southwest" : {
+                  "lat" : 29.08897447010728,
+                  "lng" : 58.36129457010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4173aa366c80062b5462f4aab9a8be7f38634172",
+         "name" : "Akbar Tourist Guest House",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105849825865985085531\"\u003eKoen Smits\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd5qn_ojv67XLNMcphu6UOsoWb4E7IoqspqMCKa6WKGUwU1EN9LYc92sZ08nCxCL-nax0bcmlxpGHnDtF3C1YWU0VdpY3DvwPqPaKpfauQdnhCQDcH3Iy4xBzyfz-ExO4EhDKbzJogng4CxLejSd4E22OGhSrSUQT93tDu4xUuc5rP9zxJzUtWA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJBa8PLVer_D4RUnqObsm96_0",
+         "plus_code" : {
+            "compound_code" : "39R7+42 Bam, Kerman Province, Iran",
+            "global_code" : "7HXW39R7+42"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJBa8PLVer_D4RUnqObsm96_0",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "Bam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.0751099,
+               "lng" : 58.34820589999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.07615097989272,
+                  "lng" : 58.34931362989271
+               },
+               "southwest" : {
+                  "lat" : 29.07345132010728,
+                  "lng" : 58.34661397010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8c50245696edbe0f2f6b2104bbe06af68d63af46",
+         "name" : "Bam Kourosh Hotel",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103851687663192916760\"\u003eارش کمان\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACNpsMqyefUbUSLRjxtHmqcN-8349yBaevjCeEkMGSk5hmGbDi2leGVLLQ0mvIJfh025vsYb8ZkVWU3QxBOSEUieMRXXtTCaqLWfhSpcPyje0Lah0GwPvpHE6AJmTSUP6EhBxxyHWo_SptcaYa0AzYYUFGhTY-uF9XixFlIhnW37Tjm73pRx16w",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJfZpJHWqr_D4RtFTmpaTUGA8",
+         "plus_code" : {
+            "compound_code" : "38GX+27 Bam, Kerman Province, Iran",
+            "global_code" : "7HXW38GX+27"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJfZpJHWqr_D4RtFTmpaTUGA8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Bam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.0909213,
+               "lng" : 58.3330887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.09227087989272,
+                  "lng" : 58.33443802989272
+               },
+               "southwest" : {
+                  "lat" : 29.08957122010728,
+                  "lng" : 58.33173837010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c1f9151770cb75528ad92780fedd81be70b87243",
+         "name" : "Toranj hostel اقامتگاه بوم گردی ترنج",
+         "photos" : [
+            {
+               "height" : 4248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102425003548811523231\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz11KbkHK38asFkrNO5yccAIrRAJZTII4R5PW9WSllbiX0_kyiAGiT3BTXTma6DatNYI9VUytkuSobFZI3yIsxu2d-m_inx9Pw2xgrRlM5Ecrp3G6fTJIPCbNj0gmlWSKEhDeBr0Maw8p-_KHzOkO90mSGhQZd3AxJGaCRq3fcwxIxor4ARPrpw",
+               "width" : 5664
+            }
+         ],
+         "place_id" : "ChIJd5M5aEet_D4RBQUZodBaq-w",
+         "plus_code" : {
+            "compound_code" : "38RM+96 Bam, Kerman Province, Iran",
+            "global_code" : "7HXW38RM+96"
+         },
+         "rating" : 5,
+         "reference" : "ChIJd5M5aEet_D4RBQUZodBaq-w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Kerman Province, Bam, شهید چمران، خ هادی ساعی، هادی ساعی هفتم، انتهای کوچه"
+      }
+   ],
+   "status" : "OK"
+}
